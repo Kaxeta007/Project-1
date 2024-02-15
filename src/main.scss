@@ -1,0 +1,14 @@
+@import "./head";
+@import "./sections.scss";
+@import "./variables";
+
+
+
+body {
+  background-color: rgba(30, 30, 30, 1);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
